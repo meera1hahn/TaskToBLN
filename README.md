@@ -1,6 +1,6 @@
 # Steps to use!!!
 
-## Install
+## Download my code
 ```
 git clone https://github.com/meera1hahn/.git
 ```
@@ -15,3 +15,7 @@ Test installation: run python then type import nltk
 wget http://nlp.stanford.edu/software/stanford-english-corenlp-2016-10-31-models.jar
 ```
 Then you need to change line 4 and 5 of extract_queries.py to refect the path to where you downloaded the jars 
+
+## Run
+
+simply run the extract_queries.py and send the sentence as a command line argument
