@@ -18,4 +18,4 @@ Then you need to change line 4 and 5 of extract_queries.py to refect the path to
 
 ## Run
 
-simply run the extract_queries.py and send the sentence as a command line argument
+Simply run the extract_queries.py and send the sentence as a command line argument
